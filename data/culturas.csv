@@ -1,0 +1,6 @@
+cultura,tmin_critica,tmax_critica,kc,chuva_max_dia,balanco_alerta
+cafe_arabica,3,34,0.95,60,-25
+milho,4,35,1.10,70,-30
+soja,5,35,1.00,70,-30
+cana_de_acucar,2,38,1.00,80,-35
+citros,2,36,0.70,70,-20
